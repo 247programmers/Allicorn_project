@@ -41,7 +41,8 @@ scanning LED state
 response  :  color, colormode, brightness, brightness, turn onoff, LED errorcheck
 
 
-//example : 
+//example :
+ 
 0x41 0x42 0x42 0x45 0x91   change mode to color MANUAL mode
 0x41 0x41 0x43 0x75 0x50   change color to yellow
 
